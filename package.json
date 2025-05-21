@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-sonarcloud-app",
+  "version": "1.0.0",
+  "description": "Node.js + SonarCloud",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Hello CHSBC\" && exit 0"
+  },
+  "author": "DEVIL",
+  "license": "ISC"
+}
